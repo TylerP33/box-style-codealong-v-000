@@ -245,6 +245,17 @@ section {
 
 
 
+
+
+
+
+
+
+
+#details {
+  border-top: 1px white;
+}
+
 #details div {
   height: 221px;
 }
